@@ -3,14 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m currently learning React, Next.js , TypeScript
+- ✍️ &nbsp; Watching universe and trying out latest design trends.
+- 💼 &nbsp; I belive.
 
-
+<h3>🛠 Tech Stack</h3>
+- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
-&nbsp; <a href="https://www.linkedin.com/in/ehsan-bahrami-samani/" target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
-&nbsp; <a href="mailto:bahramiehsan780@gmail.com" target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail.png" alt="gmail"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/ehsan-bahrami-samani/" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
+&nbsp; <a href="mailto:bahramiehsan780@gmail.com" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/nolan/64/gmail.png" alt="gmail"/></a>
 </p>
 <!--
 **pinfinity1/pinfinity1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
