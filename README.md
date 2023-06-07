@@ -3,7 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m currently learning React, Next.js , TypeScript
+</br>
 - ✍️ &nbsp; Watching universe and trying out latest design trends.
+</br>
 - 💼 &nbsp; I belive.
 
 <h3>🛠 Tech Stack</h3>
