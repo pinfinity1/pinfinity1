@@ -6,7 +6,7 @@
 </br>
 - ✍️ &nbsp; Watching universe and trying out latest design trends.
 </br>
-- 💼 &nbsp; I belive.
+- 💼 &nbsp; I belive in Myself.
 
 <h3>🛠 Tech Stack</h3>
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap 
