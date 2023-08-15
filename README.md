@@ -10,7 +10,7 @@
 - 💼 &nbsp; I belive in Myself.
 
 <h3>🛠 Tech Stack</h3>
-- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp;  HTML | CSS | Bootstrap | Tailwindcss | JavaScript | React | NextJS | TypeScript
 
 <h3> 🤝🏻 Connect with Me </h3>
 
